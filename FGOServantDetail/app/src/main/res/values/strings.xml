@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FGOServantDetail</string>
+    <string name="servant_name">Nama Servant</string>
+    <string name="detail">Kelas</string>
+    <string name="name_servant">Nama Servant</string>
+    <string name="kelas">Class</string>
+    <string name="detail_servant">Servant Details</string>
+    <string name="title_detail">Rare \nClass \nATK \nHP \nNoble Phantasm \nAttribute \nAlignments \nGender</string>
+    <string name="content_detail">isi detail</string>
+    <string name="bio_servant">Biography</string>
+    <string name="content_bio">isi bio</string>
+    <string name="title_profile">Nama \nEmail</string>
+    <string name="content_profile">Muhammadnoor Rijal \nrijael36@gmail.com</string>
+</resources>
